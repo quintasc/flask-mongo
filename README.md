@@ -2,7 +2,7 @@
 Esta aplicación gestionará las tareas de usuario: logging in (conectarse), logging out (desconectarse) y sign up (registrarse)
 
 ## Base de Datos
-Los datos se almacenarán en una BD MongoDB, en una colección llamada 'users'
+Los datos se almacenarán en una BD MongoDB, en una colección llamada 'users' que tendrá los campos: username, email y password
 
 ## Instalación
 Need to pip render_template, url_for, request, session, redirect, flash modules
