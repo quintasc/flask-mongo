@@ -30,10 +30,10 @@ Investiga y básate en las prácticas:
 Además cuentas en este repositorio con el esqueleto del proyecto y el código relativo a los html y css necesarios
 
 ## Rúbrica
-- Login funcional (funciona el formulario, comprueba si el usuario está registrado y aparece mensaje de usuario/password incorrectos o redirige a index.html)
-- Sign Up funcional (funcional el formulario, redirige a index.html y aparece mensaje de logged in. Se debe dar de alta un nuevo documento en la colección)
-- Crear una nueva opción que permita modificar la password de un usuario
-- Modifica el funcionamiento del botón logout para que elimine de la base de datos al usuario conectado (este comportamiento no es el habitual y obedece úncamente a cuestiones académicas)
+- Login funcional (funciona el formulario, comprueba si el usuario está registrado y aparece mensaje de usuario/password incorrectos o redirige a index.html) -- 25%
+- Sign Up funcional (funcional el formulario, redirige a index.html y aparece mensaje de logged in. Se debe dar de alta un nuevo documento en la colección) -- 25%
+- Crear una nueva opción que permita modificar la password de un usuario -- 25%
+- Modifica el funcionamiento del botón logout para que elimine de la base de datos al usuario conectado (este comportamiento no es el habitual y obedece úncamente a cuestiones académicas) -- 25%
 
 
 
