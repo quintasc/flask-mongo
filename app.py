@@ -14,29 +14,31 @@ alumnos_collection = mongo.db.users
 @app.route("/")
 @app.route("/main")
 def main():
-
-    return render_template('index.html')
+   # Inserta tu código aquí
+    pass
 
 
 @app.route('/index')
 def index():
-    if 'username' in session:
-        return render_template('index.html', username=session['username'])
-
-    return render_template('index.html')
+    # Inserta tu código aquí
+    pass
 
 
 @app.route("/signup", methods=['POST', 'GET'])
 def signup():
-   
+   # Inserta tu código aquí
+    pass
 
 @app.route('/signin', methods=['GET', 'POST'])
 def signin():
+    # Inserta tu código aquí
+    pass
    
 
 @app.route('/logout')
 def logout():
-  
+  # Inserta tu código aquí
+    pass
 
 if __name__ == "__main__":
     app.run(debug=True)
