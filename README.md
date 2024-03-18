@@ -5,7 +5,6 @@ Esta aplicación gestionará las tareas de usuario: logging in (conectarse), log
 Los datos se almacenarán en una BD MongoDB, en una colección llamada 'users' que tendrá los campos: username, email y password
 
 ## Instalación
-Need to pip render_template, url_for, request, session, redirect, flash modules
 Necesitarás instalar con pip los siguientes paquetes: flask, flask_pymongo y bcrypt (para encriptar la password) para usar las funciones:
 ### render_template (from flask): 
 permite la integración de archivos HTML con datos dinámicos en Python
